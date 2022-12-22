@@ -1,5 +1,6 @@
 # Hi, I'm Kauan Thalys do Nascimento!
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kauan-thalys-do-nascimento-42a60425b/)](https://www.linkedin.com/in/kauan-thalys-do-nascimento-42a60425b/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20841715/kauan-thalys)](https://stackoverflow.com/users/20841715/kauan-thalys)
  
 I'm a passionate to create Android, iOS and Web Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
