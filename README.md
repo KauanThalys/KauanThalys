@@ -1,11 +1,6 @@
-# Hi, I'm Kauan Thalys do Nascimemto!
+# Hi, I'm Kauan Thalys do Nascimento!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)](https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)
-[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/67486/danilo-monteiro-souza?tab=profile/)](https://pt.stackoverflow.com/users/67486/danilo-monteiro-souza?tab=profile/)
-
-## About me:
-
-  <a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">Professional Scrum Master™</a> and <a href="https://androidatc.com/_transcript.php?action=public&u=lMLczd7e1tOgpJaZ093X4eTjxWNwmJ3C19Cg0tjR" rel="some text">Flutter Application Developer</a>
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20841715/kauan-thalys)](https://stackoverflow.com/users/20841715/kauan-thalys)
  
 I'm a passionate to create Android, iOS and Web Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
 
@@ -25,7 +20,7 @@ I'm a passionate to create Android, iOS and Web Apps that transform the form of 
 
 ### Development Interface: <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
-### Operational Systems: <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+### Operational Systems: <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
 ## My GitHub Stats:
