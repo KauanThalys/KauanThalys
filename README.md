@@ -25,9 +25,9 @@ I'm a passionate to create Android, iOS and Web Apps that transform the form of 
 
 ## My GitHub Stats:
 
-<a href="https://github.com/danilomonteirosouza" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=danilomonteirosouza&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KauanThalys" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=KauanThalys&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/danilomonteirosouza"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=danilomonteirosouza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="danilomonteirosouza's GitHub stats" /></a>
-<a href="http://www.github.com/danilomonteirosouza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danilomonteirosouza&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/KauanThalys"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauanThalys&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="KauanThalys's GitHub stats" /></a>
+<a href="http://www.github.com/KauanThalys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanThalys&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/danilomonteirosouza"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=danilomonteirosouza&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/KauanThalys"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=KauanThalys&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
